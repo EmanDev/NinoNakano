@@ -1,0 +1,9 @@
+Installation:
+Extract this folder to your osu! > skins folder
+
+Credits/thank you:
+Since this is a mixed skin, here are the of the skins I used to create this wonderful mixed skin. I do not own this everything inside this folder. I only edited and mixed small stuff for my personal taste.
+
+whitecat 2.0 skin:https://skins.osuck.net/index.php?newsid=2021
+nethersonic 1.0 skin:https://www.reddit.com/r/OsuSkins/comments/nno0a5/sk_nethersonic_nino_nakano_skin_release_std169/
+nk nakano nino skin: https://www.reddit.com/r/OsuSkins/comments/o6ojbt/nk_nakano_nino_std_sdhd_169/
